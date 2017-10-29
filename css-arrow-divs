@@ -1,0 +1,36 @@
+CSS is used to create boxes with arrows that point towards content. These are often used as tooltips and quick instructions that pop up to guide you along a website. This tutorial shows how to create these divs with arrows, and the logic behind the CSS code. Here's the code block used in this tutorial:
+The video file for this code is available on my channel at: https://www.youtube.com/watch?v=s7JwxPnYoOw
+
+<pre><code>
+//The main box
+.arrowBox{
+width: 200px;
+height: 30px;
+background-color: #ffc728;
+border-radius: 5px;
+position: fixed;
+top: 3em;
+left: 230px;
+padding: 10px;
+font-family: Roboto, sans-serif;
+font-size: 14px;
+line-height: 22px;
+color: #313333;
+text-align: center;
+}
+
+//The arrow pointer
+.arrowBox:after{
+content: ' ';
+width: 0px;
+height: 0px;
+border-top: 10px solid #ffc728;
+border-left: 10px solid transparent;
+border-bottom:10px solid transparent;
+border-right:10px solid transparent;
+position: absolute;
+left: 50%;
+top: 100%;
+margin-left: -10px;
+}
+</code></pre>
