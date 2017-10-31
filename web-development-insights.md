@@ -1,4 +1,4 @@
-<h1>Building Greater Visual Experiences for Modern Gaming Websites</h1>
+<h1>Building Greater Visual Experiences for Modern Gaming Websites (A Brief Discourse on Web-Design Tools and Techniques)</h1>
 
 I published this article on Quora initially, to answer the common questions about how to style websites for greater visual experiences. The sections below detail the most common tools used to outfit modern websites (both in raw HTML and on Content Management System platforms such as Wordpress, Square, and Wrike). This article is published here as well as a corollary to my development in creating games within web-driven environments, as well as to demonstrate design knowledge on building supporting content platforms around websites built for gaming studios and titles.
 
