@@ -1,0 +1,19 @@
+Centering is a popular issue in CSS and gets a lot of attention just because it’s central to page layouts. We can simply use the property-value pair called Transform: Translate. Here's a simple and effective way to always have your divs centered vertically and horizontally, using the CSS3 transform: translate( ); property-value pair. Translate shifts an element on a page on the X and Y axes and it accepts all values, including percentage and pixels. Now when we change the dimensions of the div to anything we want. You can see the div always remains in the center, because the browser is compensating for any width and height dimensions using the translate property. It’s really easy.We simply put: transform: translate (-50%, -50%). That’s it. Here's the code snippet, including browser fallbacks:
+
+<pre><code>
+/* This is the code to perfectly center a div, horizontally and vertically, within another: */
+.centereddiv{
+background-color: #000; /* Example color - this can be any value */
+position: absolute;
+width: 650px; /* Example width - this can be any value */
+height: 100px; /* Example height - this can be any value */
+top: 50%;
+left: 50%;
+
+/* It’s good practice to implement browser-fallback properties. So in addition to your code, you would simply add the browser prefix for translate like this: */
+-webkit-transform: translate(-50%, -50%);
+-moz-transform: translate(-50%, -50%);
+-o-transform: translate(-50%, -50%);
+-ms-transform: translate(-50%, -50%);
+transform: translate(-50%, -50%);
+</code></pre>
