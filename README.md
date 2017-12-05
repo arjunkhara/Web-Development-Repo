@@ -8,3 +8,6 @@ I have created and uploaded a tutorial for using CSS to perfectly center a div w
 
 
 I have created and uploaded a tutorial for using CSS to create an outline of a div with an arrow in-built into its perimeter, which provides an unusual look and feel on websites running CSS3 (which should be most today). This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/web-development-repo/blob/master/create-outlined-div-boxes and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=pgMIp4ghGr0
+
+
+I have created and uploaded a tutorial for using CSS to create slanted divs and oddly-shaped or skewed boxes, which provides an unusual visual interest on websites running CSS3 (which should be most today). This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/css-slanted-div-styles and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=6QGOhCZLdhs
