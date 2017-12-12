@@ -16,3 +16,7 @@ I have created and uploaded a tutorial for using CSS to create slanted divs and 
 <h3>Keyframe Animations</h3>
 I have created and uploaded a tutorial for using CSS to create keyframed animations for websites running CSS3 (which should be most today). This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/css-animation-keyframes and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=Kve-RIl4sus
 
+<h3>Material Design-Like Form Effects and Animations</h3>
+I have created and uploaded a tutorial for using CSS to make HTML forms perform the animations and behaviours commonly seen in modern websites. Google's Material Design forms have a similar appearance and behaviour, although Google uses Javascript, whereas this code uses pure CSS to achieve stylistic results. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/recreating-google-material-design-forms and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=BqL_sMJ25Y8
+
+
