@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Bouncing Arrow</title>
+
+<style>
+    .arrow{
+      position: relative;
+      font-size: 48px;
+      text-align: center;
+      transform: rotate(90deg);
+      animation: bouncearrow 1s infinite;
+      color: #ffc728;
+    }
+
+@-webkit-keyframes bouncearrow{
+    0%{top: 0px;}
+    50%{top: 20px; color: #000000;}
+    100%{top: 0px;}
+}
+
+@keyframes bouncearrow{
+    0%{top: 0px;}
+    50%{top: 20px; color: #000000;}
+    100%{top: 0px;}
+}
+</style>
+</head>
+
+
+ <body>
+<div class="arrow">&#8674;</div>
+</body>
+</html>﻿
