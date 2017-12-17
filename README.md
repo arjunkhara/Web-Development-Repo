@@ -28,3 +28,7 @@ I have uploaded a video showing an animation of a visit to Loikaw Lodge, Myanmar
 <h3>Perfectly Centering Text Vertically and Horizontally in Divs</h3>
 I have created and uploaded a tutorial about how to center text within a div perfectly, along both the horizontal and vertical axes. This is a common problem that affects many front-end web designers; the solution (one of many) is to use CSS's transform:translate property. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/centering-text-in-divs-horizontally-vertically and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=wNetfYEjNY8
 
+<h3>Slick Sliding Toggle Switches</h3>
+I have created and uploaded a tutorial about how to create sliding toggles for use in web forms. The sliding toggle switch looks and performs much better (across UI / UX drivers) than traditional checkboxes and are especially attractive on modern websites that want to provide a sleeker user experience. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/sliding-toggle-switch and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=Xo3VG5DeSbs
+
+
