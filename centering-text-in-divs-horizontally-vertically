@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1">
+    <title>Horizontally and Vertically Center Texts in Divs</title>
+    <style>
+
+/*STYLING FOR DIV BOX TEXT*/
+.mydiv{
+  position: relative;
+  width: 500px;
+  height: 500px;
+  background-color: #ffc728;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+/*STYLING FOR PARAGRAPH TEXT*/
+.mytext{
+  position: relative;
+  font-size: 16px;
+  line-height: 24px;
+  color: #222222;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+    </style>
+  </head>
+
+  <body>
+<div class="mydiv"><p class="mytext">I am a perfectly centered (H and V) piece of text.</p></div>
+  </body>
+</html>
