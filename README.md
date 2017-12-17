@@ -31,4 +31,7 @@ I have created and uploaded a tutorial about how to center text within a div per
 <h3>Slick Sliding Toggle Switches</h3>
 I have created and uploaded a tutorial about how to create sliding toggles for use in web forms. The sliding toggle switch looks and performs much better (across UI / UX drivers) than traditional checkboxes and are especially attractive on modern websites that want to provide a sleeker user experience. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/sliding-toggle-switch and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=Xo3VG5DeSbs
 
+<h3>CSS Flip Card Effect</h3>
+I have created and uploaded a tutorial about how to create a flipping card effect on websites using pure CSS, no JavaScript. The CSS flip card effect is a great space saver, espeically for sites that face design or space constraints, and adds a strong interactive element for users. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/flip-card-effect and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=OV8MVmtgmoY
+
 
