@@ -40,3 +40,7 @@ I have created and uploaded a tutorial about how to create a complete and unbrok
 <h3>JavaScript Dynamic Greeting for Time of Day</h3>
 I have created and uploaded a tutorial about how to create a greeting on a website that changes depending on the time of day. By using a few lines of JavaScript, the greeting changes, depending on the site visitor's local time. The effects of this tutorial can be viewed on the website that I built for a client / friend's hotel in Myanmar. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/dynamic-date-time-greeting and the link to the website is: https://www.loikawlodge.com
 
+
+<h3>JavaScript Change Button Label / Text</h3>
+I have created and uploaded a tutorial about how to change the label / text of a button on a website using simple JavaScript. When a visitor hovers their mouse over the button, the text changes, then reverts when the mouse is moved out or away. The effects of this tutorial can be viewed on the website that I built for a client / friend's hotel in Myanmar. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/change-button-text and the link to the website is: https://www.loikawlodge.com
+
