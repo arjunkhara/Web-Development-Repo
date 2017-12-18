@@ -37,3 +37,6 @@ I have created and uploaded a tutorial about how to create a flipping card effec
 <h3>Borders Around Pointer Divs</h3>
 I have created and uploaded a tutorial about how to create a complete and unbroken border around a div that also contains a pointer / arrow using a pseudo class. This code complements an earlier tutorial I uploaded that explained how to create a div with an arrow or pointer attached to any of its sides. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/borders-with-pointers and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=1FsGBL-7jaw
 
+<h3>JavaScript Dynamic Greeting for Time of Day</h3>
+I have created and uploaded a tutorial about how to create a greeting on a website that changes depending on the time of day. By using a few lines of JavaScript, the greeting changes, depending on the site visitor's local time. The effects of this tutorial can be viewed on the website that I built for a client / friend's hotel in Myanmar. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/dynamic-date-time-greeting and the link to the website is: https://www.loikawlodge.com
+
