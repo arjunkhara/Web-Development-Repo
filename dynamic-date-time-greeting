@@ -1,0 +1,14 @@
+<script>
+var today = new Date();
+var hourNow = today.getHours();
+
+if (hourNow > 18){
+document.getElementById("greetingTime").innerHTML = "Good evening.";
+} else if (hourNow > 12){
+document.getElementById("greetingTime").innerHTML = "Good afternoon.";
+} else if (hourNow > 0){
+document.getElementById("greetingTime").innerHTML = "Good morning.";
+} else {
+document.getElementById("greetingTime").innerHTML = "Good day.";
+}
+</script>
