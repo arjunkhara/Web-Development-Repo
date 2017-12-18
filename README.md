@@ -44,3 +44,6 @@ I have created and uploaded a tutorial about how to create a greeting on a websi
 <h3>JavaScript Change Button Label / Text</h3>
 I have created and uploaded a tutorial about how to change the label / text of a button on a website using simple JavaScript. When a visitor hovers their mouse over the button, the text changes, then reverts when the mouse is moved out or away. The effects of this tutorial can be viewed on the website that I built for a client / friend's hotel in Myanmar. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/change-button-text and the link to the website is: https://www.loikawlodge.com
 
+<h3>JavaScript Generate a Form Within an Image</h3>
+I have created and uploaded a tutorial about how to embed a fully-functioning form within the bounding area of an image, using simple JavaScript. When a visitor clicks a button, the image is replaced by an HTML form that the user can fill in and submit, then close and return to the image. The effects of this tutorial can be viewed on the website that I built for a client / friend's hotel in Myanmar. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/switch-between-images-and-forms and the link to the website is: https://www.loikawlodge.com
+
