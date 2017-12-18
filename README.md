@@ -34,4 +34,6 @@ I have created and uploaded a tutorial about how to create sliding toggles for u
 <h3>CSS Flip Card Effect</h3>
 I have created and uploaded a tutorial about how to create a flipping card effect on websites using pure CSS, no JavaScript. The CSS flip card effect is a great space saver, espeically for sites that face design or space constraints, and adds a strong interactive element for users. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/flip-card-effect and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=OV8MVmtgmoY
 
+<h3>Borders Around Pointer Divs</h3>
+I have created and uploaded a tutorial about how to create a complete and unbroken border around a div that also contains a pointer / arrow using a pseudo class. This code complements an earlier tutorial I uploaded that explained how to create a div with an arrow or pointer attached to any of its sides. This tutorial is on my YouTube channel which I started some time ago but I'm now committing these to GitHub. The link to the code is: https://github.com/arjunkhara/Web-Development-Repo/blob/master/borders-with-pointers and the link to the video tutorial on YouTube is: https://www.youtube.com/watch?v=1FsGBL-7jaw
 
