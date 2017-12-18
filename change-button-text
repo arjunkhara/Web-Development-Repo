@@ -1,0 +1,9 @@
+<script>
+document.getElementById("stayherewelcome").onmouseover = function(){
+document.getElementById("wsmsg").innerHTML = "Welcome";
+}
+
+document.getElementById("stayherewelcome").onmouseout = function(){
+document.getElementById("wsmsg").innerHTML = "Stay Here";
+}
+</script>
