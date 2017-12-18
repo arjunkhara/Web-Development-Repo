@@ -1,0 +1,45 @@
+/*  THIS CREATES A TYPICAL DIV BOX  */
+  .infobox{
+      position: relative;
+      max-width: 450px;
+      height: auto;
+      background: #ffffff;
+      padding: 40px;
+      font-size: 14px;
+      line-height: 1.7;
+      margin: 50px auto;
+      box-sizing: border-box;
+      border: 4px solid #000000;
+    }
+
+
+/*  THE CSS FOR THE ARROW BOXES  */
+    .infobox:after, .infobox:before{
+      position: absolute;
+      content: '';
+      width: 0;
+      height: 0;
+      top: 100%;
+      left: 50%;
+    }
+
+
+/*  THE CSS FOR THE INNER ARROW (THE POINTER), WHICH HAS THE SAME COLOR AS THE DIV'S FILL, i.e. #ffffff  */
+.infobox:after{
+  border-top: 20px solid #ffffff;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid transparent;
+  border-left: 20px solid transparent;
+  margin-left: -20px;
+}
+
+
+/*  THE CSS FOR THE OUTER ARROW (THE BORDER), WHICH HAS THE SAME COLOR AS THE DIV'S BORDER, i.e. #000000
+THIS WILL FORM THE BORDER FOR THE INNER ARROW  */
+.infobox:before{
+  border-top: 25px solid #000000;
+  border-right: 25px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-left: 25px solid transparent;
+  margin-left: -25px;
+}﻿
