@@ -1,0 +1,26 @@
+<script type="text/javascript">
+document.getElementById("smodalactive").onclick = function(){
+document.getElementById("smodal").style.display="block";
+}
+
+document.getElementById("dmodalactive").onclick = function(){
+document.getElementById("dmodal").style.display="block";
+}
+
+document.getElementById("spmodalactive").onclick = function(){
+document.getElementById("spmodal").style.display="block";
+}
+
+
+document.getElementById("closesmodal").onclick = function(){
+document.getElementById("smodal").style.display="none";
+}
+
+document.getElementById("closedmodal").onclick = function(){
+document.getElementById("dmodal").style.display="none";
+}
+
+document.getElementById("closespmodal").onclick = function(){
+document.getElementById("spmodal").style.display="none";
+}
+</script>
